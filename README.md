@@ -1,4 +1,11 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+## Problem Tracker
+
+| S.No | Problem Name | Language | Date Solved | Solution |
+|------|--------------|----------|-------------|----------|
+| 1 | Fibonacci Number | Java | 2026-09-14 | [0509-fibonacci-number](https://github.com/mauryaanant005/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
